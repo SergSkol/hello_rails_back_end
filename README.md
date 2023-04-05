@@ -58,7 +58,6 @@ Understand the pros and cons of different approaches of connecting Ruby on Rails
 
 ### Preview <a name="preview"></a>
 
-
 ## 🚀 Live Demo <a name="live-demo"></a>
 - Get random greeting from API (http://localhost:3000/api/greeting)
 
@@ -71,9 +70,19 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites <a name="prerequisites"></a>
 
 In order to run this project you need:
-
 - Install ruby on your computer or run in with docker
 - Have rails installed on your computer
+
+Install and run React front-end:
+React front-end is avalable in repo https://github.com/SergSkol/hello_react_front_end
+You could use command 'git clone https://github.com/SergSkol/hello_react_front_end.git'
+
+Then open project folder and run:
+```npm install
+  npm start
+```
+
+Then run React front-end on http://localhost:3001/ 
 
 ### Setup <a name="setup"></a>
 
